@@ -14,13 +14,14 @@ body{
 }
 
 #heading1{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: helvetica;
     text-align: center;
     font-weight: 900;
     color:blue
 }
 
 .myclass{
+    font-family: cursive;
     text-decoration: blue dotted underline; 
     color:aquamarine
 }
