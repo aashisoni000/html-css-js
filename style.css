@@ -1,0 +1,30 @@
+h1{
+    color:rgb(167, 105, 218);
+}
+button{
+    color:rgb(230, 78, 67);
+    background-color: rgb(238, 173, 173);
+}
+h2{
+    color:#6b7c96
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+#heading1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 900;
+    color:blue
+}
+
+.myclass{
+    text-decoration: blue dotted underline; 
+    color:aquamarine
+}
+
+a{
+    text-decoration: none;
+}
