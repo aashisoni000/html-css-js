@@ -1,31 +1,21 @@
+#one{
+    font-size: 25px;
+    line-height: normal;
+    text-transform: capitalize;
+}
 h1{
-    color:rgb(167, 105, 218);
-}
-button{
-    color:rgb(230, 78, 67);
-    background-color: rgb(238, 173, 173);
-}
-h2{
-    color:#6b7c96
-}
-
-body{
-    background-color: rgb(0, 0, 0);
-}
-
-#heading1{
-    font-family: helvetica;
     text-align: center;
-    font-weight: 900;
-    color:blue
+    text-transform: uppercase;
 }
 
-.myclass{
-    font-family: cursive;
-    text-decoration: blue dotted underline; 
-    color:aquamarine
+*{
+    font-family: 'Times New Roman', Times, serif;
 }
 
-a{
-    text-decoration: none;
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
 }
