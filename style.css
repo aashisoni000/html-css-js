@@ -1,21 +1,5 @@
-#one{
-    font-size: 25px;
-    line-height: normal;
-    text-transform: capitalize;
-}
-h1{
-    text-align: center;
-    text-transform: uppercase;
-}
-
-*{
-    font-family: 'Times New Roman', Times, serif;
-}
-
-#outer{
-    font-size: 25px;
-}
-
-#inner{
-    font-size: 10px;
+div{
+    height:500;
+    width:300;
+    background-color: pink;
 }
