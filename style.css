@@ -1,19 +1,7 @@
-*{
-    padding:0;
-    margin:0;
-    color: white
-    ;
-}
-
-#navbar{
-    height: 60px;
-    background-color: #0f1111;
-}
-
-button{
-    background-color: #f08804;
-}
-a{
-    margin-right: 200px;
-    text-decoration: none;
+div{
+    background-color: pink;
+    height:100px;
+    width: 100px;
+    border black 10px
+    inline block;
 }
