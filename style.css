@@ -2,6 +2,21 @@ div{
     background-color: pink;
     height:100px;
     width: 100px;
-    border black 10px
-    inline block;
+    border: 4mm ridge rgba(67, 112, 238, 0.6);
+
 }
+
+#box3{
+        position: absolute;
+    top: 20px;
+    font-size: 20px;
+    left: 60px;
+    z-index: -1;
+}
+
+#box4{
+    background-size: cover;
+    background-image: url("vinland.jpg");
+    height: 400px;
+}
+
